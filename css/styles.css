@@ -81,6 +81,48 @@ body{
     color:#000;
     font-size: 1.5rem;
     font-optical-sizing: auto;
-    font-weight:700;
+    font-weight:800;
     font-style: normal;
 }
+/* Testimonial Section CSS */
+#testimonials{
+    text-align: center;
+    background-color: #ef8172;
+    color:#fff;
+}
+.carousel-item{
+    padding:7% 15%;
+}
+.testimonial-h2{
+    font-family: "Montserrat", sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    font-optical-sizing: auto;
+    font-weight:900;
+    font-style: normal;
+}
+.testimonial-image{
+    width:10%;
+    border-radius: 100%;
+    margin:20px;
+}
+/* press section */
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.press-logo{
+    width: 15%;
+    margin:20px 20px 50px 20px;
+
+}
+/* pricing section */
+#pricing{
+    padding:100px;
+}
+.pricing-column{
+    padding:3% 2%;
+    text-align: center;
+}
+
